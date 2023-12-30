@@ -3,6 +3,10 @@
 A micropython version of the classic retro game 'SnakeII' available on some nokia mobile phones c. 2000. 
 This version is designed to be run on the Raspberry Pi Pico Microcontroller, and a display based on the GC9A01 chip.
 
+## Demo
+
+![image](https://github.com/arneyjfs/snakeIII/assets/53710727/15513cad-6dd4-4c06-b926-c76f94ad853f)
+
 ## Setup
 
 ### Hardware
